@@ -5,7 +5,7 @@
 
 - I am vedanshi
 - I’m currently learning Data Structures & Algorithms
-- I'm open to contribute new open-source projects
+- I'm open to contribute into new open-source projects
 - Pronouns: she/her
 
 ### connect with me
