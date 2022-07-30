@@ -5,7 +5,10 @@
 
 - I am vedanshi
 - I’m currently learning Data Structures & Algorithms
-- Connect with me through [discord](https://discordapp.com/tokio/7761/)
 - Pronouns: she/her
 
-
+<h2 align="center">connect with me</h2>
+<p>
+<a href="https://linkedin.com/in/vedanshi-p-81a07723b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Vedanshi%20Prajapati-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+<a href="https://twitter.com/Vedanshi555/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-vedanshi555-white?logo=twitter&logoColor=blue&color=blue"" /></a>
+</p>
