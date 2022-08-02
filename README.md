@@ -10,8 +10,8 @@
 
 ### connect with me
 <p>
-<a href="https://discordapp.com/tokio/7761/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-tokio%20-purple?logo=Discord&logoColor=white&color=blue" /></a>
-<a href="https://twitter.com/Tokio3012/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-Tokio3012-white?logo=twitter&logoColor=blue&color=blue"" /></a>
+<a href="https://discordapp.com/tokio#7761/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-tokio%20-purple?logo=Discord&logoColor=white&color=blue" /></a>
+<a href="https://twitter.com/vedanshi555/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-vedanshi555-white?logo=twitter&logoColor=blue&color=blue"" /></a>
 </p>
 
 ### ~
