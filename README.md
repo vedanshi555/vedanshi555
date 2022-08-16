@@ -22,3 +22,9 @@
 <div align="center">
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=vedanshi555&theme=highcontrast&hide_border=true)](https://git.io/streak-stats" />
 </div>
+
+  
+  
+  ## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/vedanshi555/vedanshi555/blob/output/github-contribution-grid-snake.gif)
+
