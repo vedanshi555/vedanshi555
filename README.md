@@ -20,5 +20,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div align="center">
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=vedanshi555&theme=dracula&hide_border=false)](https://git.io/streak-stats" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=vedanshi555&theme=highcontrast&hide_border=true)](https://git.io/streak-stats" />
 </div>
