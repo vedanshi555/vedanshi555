@@ -10,9 +10,10 @@
 
 ### connect with me
 <p>
-<a href="https://discordapp.com/tokio#7761/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-tokio%20-purple?logo=Discord&logoColor=white&color=blue" /></a>
-<a href="https://twitter.com/vedanshi555/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-vedanshi555-white?logo=twitter&logoColor=blue&color=blue"" /></a>
+<a align="center" href="https://discordapp.com/tokio#7761/"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
+<a href="https://twitter.com/vedanshi555/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" /></a>
 </p>
+
 
 ### ~
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
