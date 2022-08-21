@@ -20,8 +20,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div align="center">
-<p align="center"><b>blogsite</b></p>
+<div>
+<p><b>blogsite</b></p>
 <p><a href="https://vedanshi555.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
