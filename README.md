@@ -12,6 +12,7 @@
 <p>
 <a align="center" href="https://discordapp.com/tokio#7761/"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
 <a href="https://twitter.com/vedanshi555/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedanshi-p-81a07723b/" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="50" /></a>
 </p>
 
 
