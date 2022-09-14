@@ -8,6 +8,7 @@
 - 🚀 I'm open to contribute into new open-source projects.
 - 🌱 Pronouns: she/her.
 
+
 ### connect with me
 <p>
 <a align="center" href="https://discordapp.com/tokio#7761/"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
@@ -36,4 +37,6 @@
   
   ## watch my contribution graph eaten by the snake
 ![snake gif](https://github.com/vedanshi555/vedanshi555/blob/output/github-contribution-grid-snake.gif)
+
+  ![](https://komarev.com/ghpvc/?username=vedanshi555&color=blue)
 
