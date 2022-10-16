@@ -28,10 +28,11 @@
 <div>
 <p><a href="https://vedanshi555.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
-
+<!--
 <div align="center">
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=vedanshi555&theme=highcontrast&hide_border=true)](https://git.io/streak-stats" />
 </div>
+-->
 <!--
 <a href="http://www.github.com/vedanshi555"><img src="https://activity-graph.herokuapp.com/graph?username=vedanshi555&bg_color=000000&color=ffffff&line=eb8c34&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
